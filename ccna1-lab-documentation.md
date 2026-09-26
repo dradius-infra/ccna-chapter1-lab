@@ -1,12 +1,12 @@
-# CCNA 200-301 Domain 1: Network Fundamentals
+# CCNA 200-301 Chapter 1: Network Fundamentals
 
 A terminal-based interactive evaluation platform designed for the CCNA (200-301) certification, focused entirely on Domain 1 (Network Fundamentals). The script stress-tests both theoretical core concepts and practical proficiency in Cisco IOS CLI diagnostics and baseline configuration syntax.
 
 ---
 
-## Exam Syllabus Coverage (Domain 1 Breakdown)
+## Exam Coverage (Chapter 1 Breakdown)
 
-The runtime evaluates 100% of the Cisco CCNA Domain 1 blueprint requirements:
+The runtime evaluates 100% of the Cisco CCNA Chapter 1 requirements:
 
 * **Architecture & Topologies:**
 * Three-Tier Campus Model (Core, Distribution, Access layer duties).
